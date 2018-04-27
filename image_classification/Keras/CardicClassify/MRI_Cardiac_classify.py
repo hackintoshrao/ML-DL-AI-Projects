@@ -98,7 +98,7 @@ def data_generator(mri_paths, labels,  batch_size=64):
 			X_batch[j, :, : ,0], y_batch[j] = process_get_data(mri_paths[total_count + j], labels[total_count + j] )
 
 		total_count = total_count + batch_size
-		if total_count >= no_batches_per_epoch - 1:
+		if 	if total_count >= N - batchsize - 1::
             # reset the index, this allows iterating though the dataset again.
 			total_count = 0
 
@@ -197,7 +197,7 @@ validation_data_generator = data_generator(X_test, y_test, batch_size=BATCH_SIZE
 model = get_model()
 
  # extracts around 22000 samples in each epoch from the generator.
-samples_per_epoch = (4000//BATCH_SIZE) * BATCH_SIZE
+samples_per_epoch = (4000 // BATCH_SIZE) * BATCH_SIZE
 
 
 model.fit_generator(training_data_generator, validation_data=validation_data_generator,samples_per_epoch=samples_per_epoch, nb_epoch=3, nb_val_samples=3000)
