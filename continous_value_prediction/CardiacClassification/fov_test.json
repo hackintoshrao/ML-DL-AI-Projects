@@ -1,0 +1,902 @@
+{
+  "data/fov_test/99.png": {
+    "field_of_view": 312.5
+  }, 
+  "data/fov_test/83.png": {
+    "field_of_view": 241.25
+  }, 
+  "data/fov_test/298.png": {
+    "field_of_view": 282.3529464
+  }, 
+  "data/fov_test/43.png": {
+    "field_of_view": 240.00000444
+  }, 
+  "data/fov_test/259.png": {
+    "field_of_view": 252.5
+  }, 
+  "data/fov_test/231.png": {
+    "field_of_view": 162.3188406
+  }, 
+  "data/fov_test/38.png": {
+    "field_of_view": 219.60784719999998
+  }, 
+  "data/fov_test/206.png": {
+    "field_of_view": 232.84313125
+  }, 
+  "data/fov_test/117.png": {
+    "field_of_view": 248.11594205999998
+  }, 
+  "data/fov_test/121.png": {
+    "field_of_view": 271.30434786
+  }, 
+  "data/fov_test/205.png": {
+    "field_of_view": 235.42857187
+  }, 
+  "data/fov_test/85.png": {
+    "field_of_view": 256.00000048
+  }, 
+  "data/fov_test/84.png": {
+    "field_of_view": 233.75
+  }, 
+  "data/fov_test/173.png": {
+    "field_of_view": 203.9215724
+  }, 
+  "data/fov_test/16.png": {
+    "field_of_view": 236.52173915999998
+  }, 
+  "data/fov_test/235.png": {
+    "field_of_view": 283.42857196
+  }, 
+  "data/fov_test/72.png": {
+    "field_of_view": 272.94118152
+  }, 
+  "data/fov_test/178.png": {
+    "field_of_view": 232.15686704
+  }, 
+  "data/fov_test/220.png": {
+    "field_of_view": 292.57142912
+  }, 
+  "data/fov_test/69.png": {
+    "field_of_view": 221.484375
+  }, 
+  "data/fov_test/214.png": {
+    "field_of_view": 299.84375
+  }, 
+  "data/fov_test/100.png": {
+    "field_of_view": 217.14285755
+  }, 
+  "data/fov_test/202.png": {
+    "field_of_view": 222.60869567999998
+  }, 
+  "data/fov_test/203.png": {
+    "field_of_view": 221.17647467999998
+  }, 
+  "data/fov_test/277.png": {
+    "field_of_view": 262.02898554
+  }, 
+  "data/fov_test/255.png": {
+    "field_of_view": 283.42857196
+  }, 
+  "data/fov_test/198.png": {
+    "field_of_view": 310.72463772
+  }, 
+  "data/fov_test/86.png": {
+    "field_of_view": 178.2352959
+  }, 
+  "data/fov_test/221.png": {
+    "field_of_view": 229.56521741999998
+  }, 
+  "data/fov_test/71.png": {
+    "field_of_view": 194.78260871999998
+  }, 
+  "data/fov_test/82.png": {
+    "field_of_view": 210.19608232
+  }, 
+  "data/fov_test/183.png": {
+    "field_of_view": 170.98039531999999
+  }, 
+  "data/fov_test/91.png": {
+    "field_of_view": 183.18840581999999
+  }, 
+  "data/fov_test/282.png": {
+    "field_of_view": 164.7058854
+  }, 
+  "data/fov_test/46.png": {
+    "field_of_view": 292.17391308
+  }, 
+  "data/fov_test/272.png": {
+    "field_of_view": 280.78431892
+  }, 
+  "data/fov_test/39.png": {
+    "field_of_view": 279.0625
+  }, 
+  "data/fov_test/223.png": {
+    "field_of_view": 199.21568996
+  }, 
+  "data/fov_test/230.png": {
+    "field_of_view": 249.14285761
+  }, 
+  "data/fov_test/107.png": {
+    "field_of_view": 287.05882884
+  }, 
+  "data/fov_test/225.png": {
+    "field_of_view": 169.14285746000002
+  }, 
+  "data/fov_test/31.png": {
+    "field_of_view": 206.37681161999998
+  }, 
+  "data/fov_test/32.png": {
+    "field_of_view": 178.55072466
+  }, 
+  "data/fov_test/186.png": {
+    "field_of_view": 283.33332709999996
+  }, 
+  "data/fov_test/126.png": {
+    "field_of_view": 264.34782612
+  }, 
+  "data/fov_test/37.png": {
+    "field_of_view": 231.88405799999998
+  }, 
+  "data/fov_test/166.png": {
+    "field_of_view": 183.18840581999999
+  }, 
+  "data/fov_test/98.png": {
+    "field_of_view": 265.09804412
+  }, 
+  "data/fov_test/155.png": {
+    "field_of_view": 166.85714317
+  }, 
+  "data/fov_test/237.png": {
+    "field_of_view": 274.509809
+  }, 
+  "data/fov_test/181.png": {
+    "field_of_view": 183.18840581999999
+  }, 
+  "data/fov_test/93.png": {
+    "field_of_view": 277.64706395999997
+  }, 
+  "data/fov_test/90.png": {
+    "field_of_view": 201.14285752
+  }, 
+  "data/fov_test/182.png": {
+    "field_of_view": 265.09804412
+  }, 
+  "data/fov_test/79.png": {
+    "field_of_view": 167.734375
+  }, 
+  "data/fov_test/216.png": {
+    "field_of_view": 292.17391308
+  }, 
+  "data/fov_test/226.png": {
+    "field_of_view": 299.13043482
+  }, 
+  "data/fov_test/258.png": {
+    "field_of_view": 258.8235342
+  }, 
+  "data/fov_test/137.png": {
+    "field_of_view": 160.00000002
+  }, 
+  "data/fov_test/149.png": {
+    "field_of_view": 266.25
+  }, 
+  "data/fov_test/191.png": {
+    "field_of_view": 208.2352962
+  }, 
+  "data/fov_test/145.png": {
+    "field_of_view": 221.71428613
+  }, 
+  "data/fov_test/108.png": {
+    "field_of_view": 183.18840581999999
+  }, 
+  "data/fov_test/291.png": {
+    "field_of_view": 162.3188406
+  }, 
+  "data/fov_test/146.png": {
+    "field_of_view": 208.33332875
+  }, 
+  "data/fov_test/35.png": {
+    "field_of_view": 317.71428631
+  }, 
+  "data/fov_test/125.png": {
+    "field_of_view": 249.14285761
+  }, 
+  "data/fov_test/229.png": {
+    "field_of_view": 161.25
+  }, 
+  "data/fov_test/67.png": {
+    "field_of_view": 185.50724639999999
+  }, 
+  "data/fov_test/66.png": {
+    "field_of_view": 189.99999581999998
+  }, 
+  "data/fov_test/274.png": {
+    "field_of_view": 172.1875
+  }, 
+  "data/fov_test/268.png": {
+    "field_of_view": 312.15686852
+  }, 
+  "data/fov_test/62.png": {
+    "field_of_view": 227.4509846
+  }, 
+  "data/fov_test/161.png": {
+    "field_of_view": 204.05797103999998
+  }, 
+  "data/fov_test/283.png": {
+    "field_of_view": 220.0
+  }, 
+  "data/fov_test/41.png": {
+    "field_of_view": 174.7058841
+  }, 
+  "data/fov_test/190.png": {
+    "field_of_view": 299.42857199
+  }, 
+  "data/fov_test/267.png": {
+    "field_of_view": 291.76471128
+  }, 
+  "data/fov_test/96.png": {
+    "field_of_view": 176.23188408
+  }, 
+  "data/fov_test/97.png": {
+    "field_of_view": 313.725496
+  }, 
+  "data/fov_test/168.png": {
+    "field_of_view": 241.56863192
+  }, 
+  "data/fov_test/110.png": {
+    "field_of_view": 201.14285752
+  }, 
+  "data/fov_test/131.png": {
+    "field_of_view": 278.2608696
+  }, 
+  "data/fov_test/114.png": {
+    "field_of_view": 270.09803225
+  }, 
+  "data/fov_test/115.png": {
+    "field_of_view": 251.4285719
+  }, 
+  "data/fov_test/286.png": {
+    "field_of_view": 222.35294340000002
+  }, 
+  "data/fov_test/147.png": {
+    "field_of_view": 165.4296875
+  }, 
+  "data/fov_test/127.png": {
+    "field_of_view": 231.88405799999998
+  }, 
+  "data/fov_test/139.png": {
+    "field_of_view": 210.78125
+  }, 
+  "data/fov_test/263.png": {
+    "field_of_view": 196.07843499999998
+  }, 
+  "data/fov_test/24.png": {
+    "field_of_view": 177.5
+  }, 
+  "data/fov_test/87.png": {
+    "field_of_view": 281.66666047
+  }, 
+  "data/fov_test/199.png": {
+    "field_of_view": 217.5
+  }, 
+  "data/fov_test/70.png": {
+    "field_of_view": 228.571429
+  }, 
+  "data/fov_test/240.png": {
+    "field_of_view": 228.571429
+  }, 
+  "data/fov_test/58.png": {
+    "field_of_view": 274.509809
+  }, 
+  "data/fov_test/60.png": {
+    "field_of_view": 181.85714257
+  }, 
+  "data/fov_test/192.png": {
+    "field_of_view": 236.52173915999998
+  }, 
+  "data/fov_test/141.png": {
+    "field_of_view": 206.37681161999998
+  }, 
+  "data/fov_test/55.png": {
+    "field_of_view": 290.28571483
+  }, 
+  "data/fov_test/273.png": {
+    "field_of_view": 257.39130437999995
+  }, 
+  "data/fov_test/47.png": {
+    "field_of_view": 259.71014496
+  }, 
+  "data/fov_test/212.png": {
+    "field_of_view": 221.17647467999998
+  }, 
+  "data/fov_test/112.png": {
+    "field_of_view": 194.50980751999998
+  }, 
+  "data/fov_test/218.png": {
+    "field_of_view": 287.05882884
+  }, 
+  "data/fov_test/102.png": {
+    "field_of_view": 228.33332830999998
+  }, 
+  "data/fov_test/116.png": {
+    "field_of_view": 183.5294136
+  }, 
+  "data/fov_test/156.png": {
+    "field_of_view": 221.66666178999998
+  }, 
+  "data/fov_test/157.png": {
+    "field_of_view": 173.9130435
+  }, 
+  "data/fov_test/119.png": {
+    "field_of_view": 206.25
+  }, 
+  "data/fov_test/26.png": {
+    "field_of_view": 197.10144929999998
+  }, 
+  "data/fov_test/204.png": {
+    "field_of_view": 163.75
+  }, 
+  "data/fov_test/299.png": {
+    "field_of_view": 183.75
+  }, 
+  "data/fov_test/12.png": {
+    "field_of_view": 236.86274948
+  }, 
+  "data/fov_test/13.png": {
+    "field_of_view": 266.6666716
+  }, 
+  "data/fov_test/289.png": {
+    "field_of_view": 202.5
+  }, 
+  "data/fov_test/189.png": {
+    "field_of_view": 203.03921045
+  }, 
+  "data/fov_test/269.png": {
+    "field_of_view": 168.75
+  }, 
+  "data/fov_test/57.png": {
+    "field_of_view": 188.33332919
+  }, 
+  "data/fov_test/54.png": {
+    "field_of_view": 261.25
+  }, 
+  "data/fov_test/197.png": {
+    "field_of_view": 314.453125
+  }, 
+  "data/fov_test/109.png": {
+    "field_of_view": 262.5
+  }, 
+  "data/fov_test/245.png": {
+    "field_of_view": 221.71428613
+  }, 
+  "data/fov_test/148.png": {
+    "field_of_view": 196.07843499999998
+  }, 
+  "data/fov_test/271.png": {
+    "field_of_view": 186.66666256
+  }, 
+  "data/fov_test/30.png": {
+    "field_of_view": 278.85714338
+  }, 
+  "data/fov_test/242.png": {
+    "field_of_view": 164.7058854
+  }, 
+  "data/fov_test/118.png": {
+    "field_of_view": 160.00000002
+  }, 
+  "data/fov_test/249.png": {
+    "field_of_view": 210.0
+  }, 
+  "data/fov_test/138.png": {
+    "field_of_view": 266.66666669999995
+  }, 
+  "data/fov_test/140.png": {
+    "field_of_view": 256.00000048
+  }, 
+  "data/fov_test/124.png": {
+    "field_of_view": 263.75
+  }, 
+  "data/fov_test/233.png": {
+    "field_of_view": 258.8235342
+  }, 
+  "data/fov_test/188.png": {
+    "field_of_view": 240.00000444
+  }, 
+  "data/fov_test/280.png": {
+    "field_of_view": 230.85714329
+  }, 
+  "data/fov_test/11.png": {
+    "field_of_view": 289.8550725
+  }, 
+  "data/fov_test/63.png": {
+    "field_of_view": 190.14492755999999
+  }, 
+  "data/fov_test/294.png": {
+    "field_of_view": 290.5882278
+  }, 
+  "data/fov_test/284.png": {
+    "field_of_view": 177.734375
+  }, 
+  "data/fov_test/15.png": {
+    "field_of_view": 265.14285764
+  }, 
+  "data/fov_test/42.png": {
+    "field_of_view": 211.7647098
+  }, 
+  "data/fov_test/196.png": {
+    "field_of_view": 213.33333335999998
+  }, 
+  "data/fov_test/53.png": {
+    "field_of_view": 201.73913045999998
+  }, 
+  "data/fov_test/243.png": {
+    "field_of_view": 287.05882884
+  }, 
+  "data/fov_test/217.png": {
+    "field_of_view": 262.02898554
+  }, 
+  "data/fov_test/8.png": {
+    "field_of_view": 205.49019988
+  }, 
+  "data/fov_test/261.png": {
+    "field_of_view": 227.2548961
+  }, 
+  "data/fov_test/122.png": {
+    "field_of_view": 205.49019988
+  }, 
+  "data/fov_test/252.png": {
+    "field_of_view": 222.60869567999998
+  }, 
+  "data/fov_test/3.png": {
+    "field_of_view": 241.15942031999998
+  }, 
+  "data/fov_test/0.png": {
+    "field_of_view": 310.85714344
+  }, 
+  "data/fov_test/49.png": {
+    "field_of_view": 195.0
+  }, 
+  "data/fov_test/48.png": {
+    "field_of_view": 261.25
+  }, 
+  "data/fov_test/65.png": {
+    "field_of_view": 283.42857196
+  }, 
+  "data/fov_test/292.png": {
+    "field_of_view": 236.86274948
+  }, 
+  "data/fov_test/81.png": {
+    "field_of_view": 243.33332797999998
+  }, 
+  "data/fov_test/279.png": {
+    "field_of_view": 306.25
+  }, 
+  "data/fov_test/290.png": {
+    "field_of_view": 244.57142903
+  }, 
+  "data/fov_test/208.png": {
+    "field_of_view": 241.15942031999998
+  }, 
+  "data/fov_test/40.png": {
+    "field_of_view": 237.71428616
+  }, 
+  "data/fov_test/265.png": {
+    "field_of_view": 314.85714236
+  }, 
+  "data/fov_test/260.png": {
+    "field_of_view": 187.42857178
+  }, 
+  "data/fov_test/151.png": {
+    "field_of_view": 204.9019555
+  }, 
+  "data/fov_test/257.png": {
+    "field_of_view": 294.49275365999995
+  }, 
+  "data/fov_test/94.png": {
+    "field_of_view": 257.0588169
+  }, 
+  "data/fov_test/51.png": {
+    "field_of_view": 273.33332731999997
+  }, 
+  "data/fov_test/136.png": {
+    "field_of_view": 252.75362321999998
+  }, 
+  "data/fov_test/160.png": {
+    "field_of_view": 196.57142894
+  }, 
+  "data/fov_test/132.png": {
+    "field_of_view": 317.68115946
+  }, 
+  "data/fov_test/133.png": {
+    "field_of_view": 206.37681161999998
+  }, 
+  "data/fov_test/23.png": {
+    "field_of_view": 236.86274948
+  }, 
+  "data/fov_test/295.png": {
+    "field_of_view": 221.71428613
+  }, 
+  "data/fov_test/2.png": {
+    "field_of_view": 163.13725792
+  }, 
+  "data/fov_test/153.png": {
+    "field_of_view": 265.234375
+  }, 
+  "data/fov_test/175.png": {
+    "field_of_view": 265.14285764
+  }, 
+  "data/fov_test/207.png": {
+    "field_of_view": 176.23188408
+  }, 
+  "data/fov_test/174.png": {
+    "field_of_view": 205.078125
+  }, 
+  "data/fov_test/253.png": {
+    "field_of_view": 269.80392656
+  }, 
+  "data/fov_test/193.png": {
+    "field_of_view": 234.20289857999998
+  }, 
+  "data/fov_test/241.png": {
+    "field_of_view": 164.11764870000002
+  }, 
+  "data/fov_test/45.png": {
+    "field_of_view": 214.42857109
+  }, 
+  "data/fov_test/44.png": {
+    "field_of_view": 227.109375
+  }, 
+  "data/fov_test/169.png": {
+    "field_of_view": 235.0
+  }, 
+  "data/fov_test/297.png": {
+    "field_of_view": 288.62745631999996
+  }, 
+  "data/fov_test/134.png": {
+    "field_of_view": 249.375
+  }, 
+  "data/fov_test/247.png": {
+    "field_of_view": 169.99999626
+  }, 
+  "data/fov_test/128.png": {
+    "field_of_view": 312.15686852
+  }, 
+  "data/fov_test/130.png": {
+    "field_of_view": 310.85714344
+  }, 
+  "data/fov_test/201.png": {
+    "field_of_view": 204.05797103999998
+  }, 
+  "data/fov_test/34.png": {
+    "field_of_view": 293.75
+  }, 
+  "data/fov_test/262.png": {
+    "field_of_view": 231.88405799999998
+  }, 
+  "data/fov_test/150.png": {
+    "field_of_view": 313.14285773
+  }, 
+  "data/fov_test/74.png": {
+    "field_of_view": 228.75
+  }, 
+  "data/fov_test/75.png": {
+    "field_of_view": 166.85714317
+  }, 
+  "data/fov_test/10.png": {
+    "field_of_view": 271.428571
+  }, 
+  "data/fov_test/281.png": {
+    "field_of_view": 257.6470614
+  }, 
+  "data/fov_test/162.png": {
+    "field_of_view": 230.58823956
+  }, 
+  "data/fov_test/56.png": {
+    "field_of_view": 214.21568075
+  }, 
+  "data/fov_test/185.png": {
+    "field_of_view": 236.14285677
+  }, 
+  "data/fov_test/239.png": {
+    "field_of_view": 284.375
+  }, 
+  "data/fov_test/264.png": {
+    "field_of_view": 268.671875
+  }, 
+  "data/fov_test/184.png": {
+    "field_of_view": 223.75
+  }, 
+  "data/fov_test/103.png": {
+    "field_of_view": 164.7058854
+  }, 
+  "data/fov_test/256.png": {
+    "field_of_view": 193.7254852
+  }, 
+  "data/fov_test/106.png": {
+    "field_of_view": 213.33332864
+  }, 
+  "data/fov_test/163.png": {
+    "field_of_view": 238.84057973999998
+  }, 
+  "data/fov_test/200.png": {
+    "field_of_view": 260.57142906
+  }, 
+  "data/fov_test/5.png": {
+    "field_of_view": 262.85714335
+  }, 
+  "data/fov_test/152.png": {
+    "field_of_view": 222.60869567999998
+  }, 
+  "data/fov_test/278.png": {
+    "field_of_view": 233.72549451999998
+  }, 
+  "data/fov_test/142.png": {
+    "field_of_view": 174.99999615
+  }, 
+  "data/fov_test/167.png": {
+    "field_of_view": 216.47059224
+  }, 
+  "data/fov_test/77.png": {
+    "field_of_view": 222.60869567999998
+  }, 
+  "data/fov_test/61.png": {
+    "field_of_view": 166.95652176
+  }, 
+  "data/fov_test/73.png": {
+    "field_of_view": 189.80392508
+  }, 
+  "data/fov_test/238.png": {
+    "field_of_view": 178.55072466
+  }, 
+  "data/fov_test/78.png": {
+    "field_of_view": 192.46376813999998
+  }, 
+  "data/fov_test/254.png": {
+    "field_of_view": 265.0
+  }, 
+  "data/fov_test/50.png": {
+    "field_of_view": 260.57142906
+  }, 
+  "data/fov_test/101.png": {
+    "field_of_view": 215.65217393999998
+  }, 
+  "data/fov_test/113.png": {
+    "field_of_view": 224.31372964
+  }, 
+  "data/fov_test/28.png": {
+    "field_of_view": 313.75
+  }, 
+  "data/fov_test/105.png": {
+    "field_of_view": 251.4285719
+  }, 
+  "data/fov_test/222.png": {
+    "field_of_view": 273.62318844
+  }, 
+  "data/fov_test/276.png": {
+    "field_of_view": 268.33332743
+  }, 
+  "data/fov_test/6.png": {
+    "field_of_view": 231.88405799999998
+  }, 
+  "data/fov_test/144.png": {
+    "field_of_view": 278.75
+  }, 
+  "data/fov_test/33.png": {
+    "field_of_view": 238.43137696
+  }, 
+  "data/fov_test/27.png": {
+    "field_of_view": 315.36231888
+  }, 
+  "data/fov_test/165.png": {
+    "field_of_view": 308.57142915000003
+  }, 
+  "data/fov_test/251.png": {
+    "field_of_view": 180.86956524
+  }, 
+  "data/fov_test/177.png": {
+    "field_of_view": 312.15686852
+  }, 
+  "data/fov_test/244.png": {
+    "field_of_view": 256.25
+  }, 
+  "data/fov_test/270.png": {
+    "field_of_view": 233.14285758
+  }, 
+  "data/fov_test/266.png": {
+    "field_of_view": 252.75362321999998
+  }, 
+  "data/fov_test/158.png": {
+    "field_of_view": 168.1640625
+  }, 
+  "data/fov_test/159.png": {
+    "field_of_view": 231.25
+  }, 
+  "data/fov_test/22.png": {
+    "field_of_view": 201.73913045999998
+  }, 
+  "data/fov_test/21.png": {
+    "field_of_view": 183.18840581999999
+  }, 
+  "data/fov_test/4.png": {
+    "field_of_view": 216.25
+  }, 
+  "data/fov_test/250.png": {
+    "field_of_view": 196.57142894
+  }, 
+  "data/fov_test/170.png": {
+    "field_of_view": 171.42857175
+  }, 
+  "data/fov_test/171.png": {
+    "field_of_view": 289.4117676
+  }, 
+  "data/fov_test/293.png": {
+    "field_of_view": 196.07843499999998
+  }, 
+  "data/fov_test/64.png": {
+    "field_of_view": 248.75
+  }, 
+  "data/fov_test/80.png": {
+    "field_of_view": 292.57142912
+  }, 
+  "data/fov_test/14.png": {
+    "field_of_view": 222.8515625
+  }, 
+  "data/fov_test/285.png": {
+    "field_of_view": 256.00000048
+  }, 
+  "data/fov_test/215.png": {
+    "field_of_view": 267.42857193000003
+  }, 
+  "data/fov_test/288.png": {
+    "field_of_view": 246.27451435999998
+  }, 
+  "data/fov_test/19.png": {
+    "field_of_view": 229.6875
+  }, 
+  "data/fov_test/227.png": {
+    "field_of_view": 224.31372964
+  }, 
+  "data/fov_test/187.png": {
+    "field_of_view": 191.37255256
+  }, 
+  "data/fov_test/95.png": {
+    "field_of_view": 211.71428538
+  }, 
+  "data/fov_test/209.png": {
+    "field_of_view": 182.5
+  }, 
+  "data/fov_test/228.png": {
+    "field_of_view": 266.6666716
+  }, 
+  "data/fov_test/9.png": {
+    "field_of_view": 234.7058763
+  }, 
+  "data/fov_test/213.png": {
+    "field_of_view": 318.43137844
+  }, 
+  "data/fov_test/20.png": {
+    "field_of_view": 219.42857184000002
+  }, 
+  "data/fov_test/275.png": {
+    "field_of_view": 281.14285767
+  }, 
+  "data/fov_test/36.png": {
+    "field_of_view": 266.66666669999995
+  }, 
+  "data/fov_test/246.png": {
+    "field_of_view": 298.2352971
+  }, 
+  "data/fov_test/76.png": {
+    "field_of_view": 160.00000002
+  }, 
+  "data/fov_test/296.png": {
+    "field_of_view": 180.68626985
+  }, 
+  "data/fov_test/172.png": {
+    "field_of_view": 310.72463772
+  }, 
+  "data/fov_test/17.png": {
+    "field_of_view": 202.35294492
+  }, 
+  "data/fov_test/176.png": {
+    "field_of_view": 164.63768118
+  }, 
+  "data/fov_test/234.png": {
+    "field_of_view": 203.75
+  }, 
+  "data/fov_test/18.png": {
+    "field_of_view": 236.25
+  }, 
+  "data/fov_test/248.png": {
+    "field_of_view": 192.94118004
+  }, 
+  "data/fov_test/89.png": {
+    "field_of_view": 183.75
+  }, 
+  "data/fov_test/88.png": {
+    "field_of_view": 282.3529464
+  }, 
+  "data/fov_test/68.png": {
+    "field_of_view": 236.86274948
+  }, 
+  "data/fov_test/211.png": {
+    "field_of_view": 192.46376813999998
+  }, 
+  "data/fov_test/29.png": {
+    "field_of_view": 168.75
+  }, 
+  "data/fov_test/104.png": {
+    "field_of_view": 257.0588169
+  }, 
+  "data/fov_test/210.png": {
+    "field_of_view": 242.28571474
+  }, 
+  "data/fov_test/7.png": {
+    "field_of_view": 194.99999570999998
+  }, 
+  "data/fov_test/154.png": {
+    "field_of_view": 213.75
+  }, 
+  "data/fov_test/195.png": {
+    "field_of_view": 178.28571462
+  }, 
+  "data/fov_test/129.png": {
+    "field_of_view": 190.0
+  }, 
+  "data/fov_test/232.png": {
+    "field_of_view": 250.43478263999998
+  }, 
+  "data/fov_test/287.png": {
+    "field_of_view": 162.3188406
+  }, 
+  "data/fov_test/164.png": {
+    "field_of_view": 305.0
+  }, 
+  "data/fov_test/224.png": {
+    "field_of_view": 311.71875
+  }, 
+  "data/fov_test/59.png": {
+    "field_of_view": 182.5
+  }, 
+  "data/fov_test/92.png": {
+    "field_of_view": 233.72549451999998
+  }, 
+  "data/fov_test/180.png": {
+    "field_of_view": 208.00000039
+  }, 
+  "data/fov_test/52.png": {
+    "field_of_view": 160.00000002
+  }, 
+  "data/fov_test/194.png": {
+    "field_of_view": 163.9215644
+  }, 
+  "data/fov_test/219.png": {
+    "field_of_view": 210.0
+  }, 
+  "data/fov_test/135.png": {
+    "field_of_view": 308.57142915000003
+  }, 
+  "data/fov_test/236.png": {
+    "field_of_view": 316.6666585
+  }, 
+  "data/fov_test/111.png": {
+    "field_of_view": 299.90195305
+  }, 
+  "data/fov_test/143.png": {
+    "field_of_view": 301.17647616
+  }, 
+  "data/fov_test/179.png": {
+    "field_of_view": 195.0
+  }, 
+  "data/fov_test/123.png": {
+    "field_of_view": 271.37255404
+  }, 
+  "data/fov_test/120.png": {
+    "field_of_view": 228.571429
+  }, 
+  "data/fov_test/25.png": {
+    "field_of_view": 166.85714317
+  }, 
+  "data/fov_test/1.png": {
+    "field_of_view": 275.94202901999995
+  }
+}
